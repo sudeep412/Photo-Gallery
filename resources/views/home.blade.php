@@ -22,7 +22,7 @@
             <div class="card">
                     <div class="card-header">Create New Gallery</div>
                     <div class="card-body">
-                    <a href="{{route('creategallery)}}" class="btn btn-success btn-block">Create New Gallery</a>
+                    <a href="{{route('creategallery)}}" class="btn btn-success btn-block">Create Gallery</a>
                     </div>
             </div>
             </div>
